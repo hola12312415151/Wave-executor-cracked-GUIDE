@@ -1,0 +1,4 @@
+*.dmp
+*.bin
+*.log
+trashfiles/
